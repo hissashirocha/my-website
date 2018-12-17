@@ -1,2 +1,2 @@
-name = "Hissashi Rocha";
+name = "Luiz Hissashi Rocha";
 email = "hissashirocha@gmail.com"
