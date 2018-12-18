@@ -15,3 +15,5 @@ E um último texto aqui
 Acredito que esse não existe
 
 **Adicionando alterações pela branch update-readme**
+
+*E essa aqui foi após fazer o checkout da branch criada remotamente, mas usando o git fetch >> git checkout update-ream*
