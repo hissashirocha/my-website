@@ -14,4 +14,4 @@ E um último texto aqui
 
 Acredito que esse não existe
 
-(remove-ipsum)
+**Adicionando alterações pela branch update-readme**
