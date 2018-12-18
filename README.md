@@ -14,6 +14,4 @@ E um último texto aqui
 
 Acredito que esse não existe
 
-##### Header 5 (branch)
-
-Esse sim não deve ter
+(remove-ipsum)
