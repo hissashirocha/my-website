@@ -1,4 +1,4 @@
-# Repositório teste do site (antes do rebase, no Github)
+# Repositório teste do site (conflito no Github)
 
 Algum texto qualquer
 
